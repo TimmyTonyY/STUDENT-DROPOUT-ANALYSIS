@@ -24,7 +24,7 @@ The dataset includes anonymized records of students' academic performance and de
 * Interpretation: Translating numbers into meaningful insights to inform interventions for at-risk students.
 #### User Instructions
 Here’s how you can get this project running on your local machine:
-1. Clone this repository: git clone https://github.com/yourusername/student-dropout-risk-analysis.git
+1. Clone this repository: git clone [https://github.com/yourusername/student-dropout-risk-analysis.git](https://github.com/TimmyTonyY/STUDENT-DROPOUT-ANALYSIS)
 2. Navigate to the project folder: cd student-dropout-risk-analysis
 3. Install dependencies: pip install -r requirements.txt
 4.	Open the project in Jupyter Notebook: Jupyter notebook dropout_analysis.ipynb
