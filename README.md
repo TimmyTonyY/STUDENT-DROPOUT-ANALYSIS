@@ -24,10 +24,10 @@ The dataset includes anonymized records of students' academic performance and de
 * Interpretation: Translating numbers into meaningful insights to inform interventions for at-risk students.
 #### User Instructions
 Here’s how you can get this project running on your local machine:
-1. Clone this repository: git clone https://github.com/TimmyTonyY/STUDENT-DROPOUT-ANALYSIS/tree/main
-2. Navigate to the project folder: [cd student-dropout-risk-analysis](https://github.com/TimmyTonyY/STUDENT-DROPOUT-ANALYSIS/blob/main/Forecast_Student_Dropout.ipynb)
+1. Clone this repository: git clone https://github.com/TimmyTonyY/STUDENT-DROPOUT-ANALYSIS
+2. Navigate to the project folder: https://github.com/TimmyTonyY/STUDENT-DROPOUT-ANALYSIS/blob/main/Forecast_Student_Dropout.ipynb
 3. Install dependencies: pip install (Pandas & NumPy, Scipy (Stats), Seaborn & Matplotlib)
-4. Open the project in Jupyter Notebook: https://github.com/TimmyTonyY/STUDENT-DROPOUT-ANALYSIS/tree/main
+4. Open the project in Jupyter Notebook: https://github.com/TimmyTonyY/STUDENT-DROPOUT-ANALYSIS/blob/main/Forecast_Student_Dropout.ipynb
 
 #### Technologies Used
 *	Python: For data analysis, statistical tests, and hypothesis testing.
