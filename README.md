@@ -27,7 +27,7 @@ Here’s how you can get this project running on your local machine:
 1. Clone this repository: git clone [https://github.com/yourusername/student-dropout-risk-analysis.git](https://github.com/TimmyTonyY/STUDENT-DROPOUT-ANALYSIS)
 2. Navigate to the project folder: [cd student-dropout-risk-analysis](https://github.com/TimmyTonyY/STUDENT-DROPOUT-ANALYSIS/blob/main/Forecast_Student_Dropout.ipynb)
 3. Install dependencies: pip install (Pandas & NumPy, Scipy (Stats), Seaborn & Matplotlib)
-4. Open the project in Jupyter Notebook: Jupyter notebook dropout_analysis.ipynb
+4. Open the project in Jupyter Notebook: https://github.com/TimmyTonyY/STUDENT-DROPOUT-ANALYSIS/tree/main
 
 #### Technologies Used
 *	Python: For data analysis, statistical tests, and hypothesis testing.
